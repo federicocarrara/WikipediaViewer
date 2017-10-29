@@ -1,0 +1,42 @@
+body {
+	text-align: center;
+	font-family:Lucida Console;
+	color: white;
+	background-color: #98FB98;
+	background-image: url("wikipediaImg.PNG");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#search{
+	margin-top: 13%;
+	border-width: 2px;
+	border-color: black;
+}
+#btn{
+	color: black;
+	margin-top: 5px;
+	border-radius: 30%;
+	border-color: black;
+	background-color: white;
+	padding: 5px;
+}
+#results{
+	text-align: left;
+	margin-top: 50px;
+}
+#results li{
+	list-style-type: none;
+	margin-top: 15px;
+	margin-right: 50px;
+	border-style: solid;
+  border-width: 3px;
+	border-color: white;
+	padding: 5px;
+}
+#results li:hover{
+	background-color: white;
+}
+#results li a {
+    text-decoration: none;
+		color: black;
+}
