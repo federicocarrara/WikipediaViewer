@@ -3,7 +3,7 @@ body {
 	font-family:Lucida Console;
 	color: white;
 	background-color: #98FB98;
-	background-image: url("https://github.com/federicocarrara/WikipediaViewer/blob/master/WikipediaImg.png");
+	background-image: url("WikipediaImg.png");
 	background-repeat: no-repeat;
 	background-position: center;
 }
