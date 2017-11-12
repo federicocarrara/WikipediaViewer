@@ -1,2 +1,2 @@
 # WikipediaViewer
-[live version](https://federicocarrara.github.io/WikipediaViewer/)
+[live version](https://federicocarrara.github.io/wikipediaViewer/)
